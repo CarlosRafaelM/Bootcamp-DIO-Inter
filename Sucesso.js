@@ -1,0 +1,23 @@
+const sucesso = [
+    {
+        autoConhecimento
+    },
+    {
+        inteligenciaEmocional
+    },
+    {
+        autoAprimoramentoConstante
+    },
+    {
+        metasDefinidas
+    },
+    {
+        determinacao
+    },
+    {
+        trabalharNoQueGosta
+    },
+    {
+        serUtilASociedade
+    },
+];
